@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Yaser Odat",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full-Stack Web Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/YAOdat",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/yaserodat/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

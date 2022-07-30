@@ -1,24 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Yaser Odat. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "مرحبًا بك في صفحتي",
+      "description": "👋 اسمي ياسر عودات مطور مواقع ويب مستجد",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "عني",
+        "projects": "المشاريع",
+        "skills": "المهارات",
+        "experience": "الخبرة"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "نظام إدارة الموارد البشرية",
+        "startDate": "2022",
+        "description": "كان علي إكمال هذا المشروع خلال يومين كجزء من المهام الموكلة إليّ",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p2.png"
         ],
-        "url": "",
+        "url": "https://github.com/YAOdat/HR-management-system",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "المشروع النهائي",
+        "startDate": "2023",
+        "description": "سيأتي قريبًا، إن شاء الله :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -55,11 +55,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "بيتزا الشوكولاتة",
+        "startDate": "2022",
+        "description": " هذا المشروع كان واجب علي عمله قبل الدخول لمرحلة 301",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p1.png",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
@@ -88,20 +88,22 @@
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "React JS",
+          "Node JS",
+          "MongoDB",
+          "Express JS",
+          "React Native"
         ]
       },
       {
         "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
+        "title": "Intern",
+        "years": "01.2023 - 09.2024",
+                "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
